@@ -9,3 +9,5 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "PerlinNoiseMask": "Perlin Noise (Mask)",
     "PerlinNoiseImage": "Perlin Noise (Image)",
 }
+
+__all__ = ["NODE_CLASS_MAPPINGS"]
